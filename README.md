@@ -1,5 +1,7 @@
 # Tables MN90
 
+[![License](https://img.shields.io/badge/license-MIT-71787A.svg)](https://choosealicense.com/licenses/mit)
+
 ## AVERTISSEMENT
 
 Ceci n'est pas un outil de désaturation. Ne calculez pas de vraies désaturation avec. Ne plongez pas avec.
@@ -21,8 +23,3 @@ L'onglet 'Tensions' utilise la [formule de Schreiner](http://www.deepocean.net/d
 Tout le reste est basé sur ce qu'on apprend au [N4](Téléchargez), avec un peu plus de math, notamment pour calculer la durée des paliers et la prise en compte de durées de saturation non multiples des périodes.
 
 C'est une feuille Excel avec macros, si on ne les autorise pas à l'ouverture ça ne fonctionnera évidemment pas puisque tous les calculs sont faits dans un module VBA. Le changement de paramètres oblige à recalculer les valeurs, ce qu'Excel ne fait malheureusement pas automatiquement.
-
-
-# Licence
-
-[MIT](https://choosealicense.com/licenses/mit)
